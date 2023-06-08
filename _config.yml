@@ -22,7 +22,7 @@ theme: jekflix
 # Customise atom feed settings (this is where Jekyll-Feed gets configuration information)
 title:		           'The Mods Zone'
 description:	       'A Best Telegram Modding Channel'
-logo: "assets/logo.svg"
+logo: "/assets/logo.svg"
 author:              'TheModsZone'
 
 # RSS 2.0 can be used instead of Atom by uncommenting following two lines
